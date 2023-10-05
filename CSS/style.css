@@ -1,0 +1,101 @@
+.img_english{
+    width: 130px;
+}
+.links:hover{
+    color: #ffff;
+    background-color: #0072BA;
+    border-radius: 30px;
+}
+.vr{
+    width: 1px;
+    height: 30px;
+    background-color: black;
+}
+.join{
+    text-decoration: none; 
+    color: black;
+}
+
+#section1{
+    padding:50px 0 70px;
+
+}
+.title1{
+    font-family:'Lucida Sans';
+}
+.title{
+    color: #0072BA;
+
+}
+
+.coloredtext{
+    color: rgb(0, 136, 255);
+}
+#section3{
+    background-color:  #D2F1FF;
+    padding: 50px 0 150px;
+
+}
+.middle-img{
+    width: 180px;
+    margin-bottom: 50px;
+    margin-top: 150px;
+}
+.imges{
+    width: 170px;
+    margin-bottom: 50px;
+    margin-top: 150px;
+}
+.sec2{
+    background-color: rgb(242, 242, 242);
+   
+}
+   
+.p{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: justify;
+}
+.card-text{
+    text-align: justify;
+    margin-left: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.yellow_part{
+    background-color: #FFD753;
+}
+.list-group{
+    list-style: none;
+}
+#section5{
+    background-color: black;
+    color: white;
+}
+.item{
+    font-family: Verdana, sans-serif;
+}
+span{
+    color: #FFD753;
+}
+.hrline{
+    border: none;
+    height: 2px;
+    background-color: #ffff;
+}
+.logo{
+    background-color: #ffff;
+    width: 180px;
+    height: 150px;
+}
+
+.vr2{
+    border-left: 1px solid #ffff;
+    height: 120px;
+    margin-left: 100px;
+}
+.qoute{
+    opacity: 0.5;
+    color: #0072BA;
+}
+.qoute2{
+    color: #FFD753;
+}
